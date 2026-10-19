@@ -1,0 +1,19 @@
+{
+  "name": "didi-cabelos-website",
+  "version": "1.0.0",
+  "description": "Website Oficial Didi Cabelos - Salão e Boutique de Cabelos em Imperatriz - MA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "didi-cabelos",
+    "salao-afro",
+    "imperatriz",
+    "box-braids",
+    "cabelo-organico"
+  ],
+  "author": "Didi Cabelos",
+  "license": "ISC"
+}
